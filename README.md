@@ -3,15 +3,15 @@ About mccode-antlr-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mccode-antlr-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/McStasMcXtrace/mccode-antlr
+Home: https://github.com/mccode-dev/mccode-antlr
 
 Package license: BSD-3-Clause
 
 Summary: McCode grammar implemented with ANTLR4
 
-Development: https://github.com/McStasMcXtrace/mccode-antlr
+Development: https://github.com/mccode-dev/mccode-antlr
 
-Documentation: https://github.com/McStasMcXtrace/mccode-antlr
+Documentation: https://github.com/mccode-dev/mccode-antlr
 
 The mccode-antlr package provides a command-line interface to the McCode
 language parsers and translators.
